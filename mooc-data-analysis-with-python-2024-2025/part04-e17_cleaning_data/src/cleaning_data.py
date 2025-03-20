@@ -28,5 +28,6 @@ def cleaning_data():
 def main():
     print(cleaning_data())
 
+
 if __name__ == "__main__":
     main()
